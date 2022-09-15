@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:news_app/bottom_nav/bottom_nav_screen.dart';
+
+import 'bottom_nav/bottom_nav_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -15,3 +16,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
